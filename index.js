@@ -1,39 +1,3 @@
-// let gambarDadu = [
-//     {
-//         gambar: "url('/img/dadu1.jpg')",
-//         id: 1
-//     },
-//     {
-//         gambar: "url('/img/dadu2.jpg')",
-//         id: 2
-//     },
-//     {
-//         gambar: "url('/img/dadu3.jpg')",
-//         id: 3
-//     },
-//     {
-//         gambar: "url('/img/dadu4.jpg')",
-//         id: 4
-//     },
-//     {
-//         gambar: "url('/img/dadu5.jpg')",
-//         id: 5
-//     },
-//     {
-//         gambar: "url('/img/dadu6.jpg')",
-//         id: 6
-//     }
-// ]
-// let pilihan = 5
-// for(let i = 0; i < gambarDadu.length; i++){
-//     if (pilihan === gambarDadu[i].id){
-//         console.log(gambarDadu[i].gambar)
-
-//     }
-// }
-// console.log(gambarDadu)
-
-//=====================
 let tulisMenang = document.getElementsByClassName("menangh1")
 let inputan = 0
 let dadu1 = document.getElementById('kotakDadu1').style.backgroundImage
