@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.halamanDepan {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./img/background-dadu.jpeg) ;
+    background-size: contain;
+    height: 767px;
+    width: 100%;
+}
+.kotakTengah {
+    background-color: #f3eac2;
+    opacity: 0.95;
+    display: inline-block;
+    margin-top: 50px ;
+    margin-left: 15%;
+    margin-right: 15%;
+    height: 500px;
+    width: 1000px;
+}
+.judul {
+    display: inline-block;;
+    margin-top: 25px;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+.kotakAdu {
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 12.75%;
+}
+
+.kotakDadu {
+    /* position: relative; */
+    display: inline-block;
+    height: 250px;
+    width: 250px;
+    border-style: solid, black;
+    background-color: grey;
+}
+#kotakDadu1 {
+    margin-right: 235px;
+    background-image: url(./img/dadutanya.jpg);
+    background-size: contain;
+}
+#kotakDadu2 {
+    background-image: url(./img/dadutanya.jpg);
+    background-size: contain;
+}
+#start {
+    display: inline-block;
+    position: absolute ;
+    margin-top: 300px;
+    margin-left: -160px;
+    width: 75px;
+}
+/* .kotakPilih {
+    display: inline-block;
+    position: absolute;
+    height: 25px;
+    width: 25px;
+    background-color: black;
+    margin-top: 275px;
+    margin-left: 8%;
+    
+} */
+/* #select1 {
+    margin-right: 20px;
+} */
+#menang {
+    height: 40px;
+    width: 430px;
+    /* background-color:black; */
+    opacity: 0.8;
+    margin-top: 200px;
+    margin-left: 30%
+}
+
+.menangh1 {
+    color: white;
+    margin-left: 8px;
+    margin-top: 50px;
+    text-align: center;
+}
+/* .gambarDadu {
+    background-image: url(./img/dadutanya.jpg);
+    display: inline-block;
+    height: 150px;
+    width: 150px;
+} */
+#buttonselect1 {
+    display: inline-block;
+    position: absolute;
+    margin-top: 275px;
+    margin-left: 7%;
+    width: 50px;
+    height: 20px;
+}
+#buttonselect2 {
+    display: inline-block;
+    position: absolute;
+    margin-top: 275px;
+    margin-left: 7%;
+    width: 50px;
+    height: 20px;
+}
